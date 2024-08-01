@@ -3,3 +3,5 @@ test test test
 Her güncellemeden sonra terminalde git push komutunu çalıştırmalısın.
 
 bu son test 
+
+güncelleme yaptıktan sonra bir deneme daha 

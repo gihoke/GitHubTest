@@ -1,3 +1,3 @@
 deneme python
  
- bu da ikinci deneme 
+ bu da ikinci deneme
