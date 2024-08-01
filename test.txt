@@ -1,1 +1,3 @@
 test test test
+
+Her güncellemeden sonra terminalde git push komutunu çalıştırmalısın.
